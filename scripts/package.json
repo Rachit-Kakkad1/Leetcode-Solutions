@@ -1,0 +1,16 @@
+{
+  "name": "leetcode-sync",
+  "version": "1.0.0",
+  "description": "Automatically fetch LeetCode submissions and push them to GitHub.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "fetch": "node index.js fetch",
+    "push": "node index.js push",
+    "all": "node index.js all"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5"
+  }
+}
