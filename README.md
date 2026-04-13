@@ -2,13 +2,6 @@
 
 [![LeetCode](https://leetcard.jacoblin.cool/kUyAWXHOC5?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12)](https://leetcode.com/u/kUyAWXHOC5/)
 
----
-
-## 📊 Stats
-
-| 143 | 143 | 100% |
-|-------|-------|------|
-| 146 | 146 | 100% |
 
 ---
 
