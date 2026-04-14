@@ -134,7 +134,9 @@ def lengthOfLastWord(s):
 
 | File Name | Language | Runtime | Memory |
 |----------|---------|---------|--------|
-| 2025-11-11 18.30.30 - Accepted - runtime 3ms - memory 12.6MB.py | **Python** 🐍 | **3ms 🟢** | **12.6MB** |
+| 2025-11-11 18.27.54 - Accepted | JavaScript | 0ms 🟢 | 55.4MB |
+| 2025-11-11 18.28.21 - Accepted | C | 0ms 🟢 | 8.2MB |
+| **2025-11-11 18.30.30 - Accepted** ⭐ | **Python** 🐍 | **3ms 🟢** | **12.6MB** |
 
 ---
 
