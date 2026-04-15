@@ -80,6 +80,7 @@
 | 349 | Intersection Of Two Arrays | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | 350 | Intersection Of Two Arrays Ii | [350-intersection-of-two-arrays-ii](./350-intersection-of-two-arrays-ii) |
 | 367 | Valid Perfect Square | [367-valid-perfect-square](./367-valid-perfect-square) |
+| 387 | First Unique Character In A String | [387-first-unique-character-in-a-string](./387-first-unique-character-in-a-string) |
 | 389 | Find The Difference | [389-find-the-difference](./389-find-the-difference) |
 | 414 | Third Maximum Number | [414-third-maximum-number](./414-third-maximum-number) |
 | 415 | Add Strings | [415-add-strings](./415-add-strings) |
